@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832f25b72bef4104b8896f5cb2b6264a, type: 3}
+  m_Name: Coal Powder
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: beaed84a3b470964eb9d07bc49737fab, type: 3}
+  maxStackSize: 99
+  itemType: 2
+  timeToSmelt: 30
+  output: {fileID: 11400000, guid: 60585109702d11a44b93a9228b2928a3, type: 2}
+  outputCount: 1
+  requiredLevel: 3

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaa9c30d53dbf3c4da4d246ee3a5198b, type: 3}
+  m_Name: Vine
+  m_EditorClassIdentifier: 
+  baseBreakTime: 0.5
+  blockIcon: {fileID: 21300000, guid: 72696fddc65581947b2f4a03a85b2f12, type: 3}
+  lootTable:
+  - item: {fileID: 11400000, guid: eaab099cbf980644f97d5ac1c422927f, type: 2}
+    dropPercentage: 1
+    requiredTool: 0
+    uniqueDrop: 0
+  preferedTool: 2
+  colorMin: {r: 0.38766423, g: 0.8490566, b: 0.3003738, a: 1}
+  colorMax: {r: 0.23770283, g: 0.6037736, b: 0.16233535, a: 1}

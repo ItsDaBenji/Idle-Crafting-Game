@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832f25b72bef4104b8896f5cb2b6264a, type: 3}
+  m_Name: Iron Powder
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 790e4df5a708dcb4b8db4cb4dae0fcde, type: 3}
+  maxStackSize: 50
+  itemType: 2
+  timeToSmelt: 10
+  output: {fileID: 11400000, guid: 180740f947ed2d549951d6c7f0410183, type: 2}
+  outputCount: 1
+  requiredLevel: 2

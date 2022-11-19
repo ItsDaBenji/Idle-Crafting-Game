@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e320aa746bebd48a8529a4e6f41b02, type: 3}
+  m_Name: Clay Axe Head Recipe 1
+  m_EditorClassIdentifier: 
+  requiredItems:
+  - {fileID: 11400000, guid: 2e4827f0af1861a458ac2d90bbd93a13, type: 2}
+  - {fileID: 11400000, guid: 2e4827f0af1861a458ac2d90bbd93a13, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 2e4827f0af1861a458ac2d90bbd93a13, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  itemCrafted: {fileID: 11400000, guid: d41e5cddbe0e3e145a3c81c580cf77b5, type: 2}
+  itemsCrafted: 1
